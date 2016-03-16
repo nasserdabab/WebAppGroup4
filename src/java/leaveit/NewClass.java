@@ -10,5 +10,5 @@ package leaveit;
  * @author Owner
  */
 public class NewClass {
-    
+    gagag
 }
