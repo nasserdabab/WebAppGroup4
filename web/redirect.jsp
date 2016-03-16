@@ -9,3 +9,5 @@ servlet but should be the only JSP outside of WEB-INF.
 <% response.sendRedirect("index.htm"); %>
 
 HEY BOBOBOBO
+
+sinan
