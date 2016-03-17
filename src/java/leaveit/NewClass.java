@@ -10,6 +10,7 @@ package leaveit;
  * @author Owner
  */
 public class NewClass {
-    gagag
+    
 //hahahahahaha
+ //test hahaha
             }
