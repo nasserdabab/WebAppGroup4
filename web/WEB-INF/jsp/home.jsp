@@ -14,15 +14,8 @@
         <h1> Welcome to Guildford Nights Out </h1>
         
         <button type='button' class='button'> Home</button>
-        
-        
-        <!--<p><i>To display a different welcome page for this project, modify</i>
-            <tt>index.jsp</tt> <i>, or create your own welcome page then change
-                the redirection in</i> <tt>redirect.jsp</tt> <i>to point to the new
-                welcome page and also update the welcome-file setting in</i>
-            <tt>web.xml</tt>.</p>-->
-        
-        
-        
+        <button type='button2' class='button'> Events</button>
+        <button type='button3' class='button'> About Us</button>
+        <button type='button4' class='button'> Contact Us</button>
     </body>
 </html>
