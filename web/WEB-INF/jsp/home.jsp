@@ -3,20 +3,26 @@
     "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
+    
     <head>
+        <link rel="stylesheet" href="css/main.css"
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>G.N.O</title>
-        <link href="../CSS/main.css" rel="stylesheet" type="text/css">
         
     </head>
 
     <body>
         <h1> Welcome to Guildford Nights Out </h1>
-        
-        <button type='button' class='button'> Home</button>
+        <form class="button"  >
+        <button type='button1' class='button'> Home Page</button>
         <button type='button2' class='button'> Events</button>
         <button type='button3' class='button'> About Us</button>
         <button type='button4' class='button'> Contact Us</button>
-        
+        </form>
     </body>
+    
+    <footer class="site-footer">
+  I'm the Sticky Footer.
+</footer>
+
 </html>
