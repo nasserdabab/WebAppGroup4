@@ -13,16 +13,22 @@
 
     <body>
         <h1> Welcome to Guildford Nights Out </h1>
-        <form class="button"  >
-        <button type='button1' class='button'> Home Page</button>
-        <button type='button2' class='button'> Events</button>
-        <button type='button3' class='button'> About Us</button>
-        <button type='button4' class='button'> Contact Us</button>
-        </form>
+        <div class="nav">
+      <ul>
+        <li class="home"><a href="#">Home</a></li>
+        <li class="tutorials"><a class="active" href="#">Tutorials</a></li>
+        <li class="about"><a href="#">About</a></li>
+        <li class="news"><a href="#">Newsletter</a></li>
+        <li class="contact"><a href="#">Contact</a></li>
+      </ul>
+    </div>
+        
     </body>
     
-    <footer class="site-footer">
-  I'm the Sticky Footer.
-</footer>
+    <div class="footerholder">
+    <div class="site-footer">
+        Blah blah
+    </div>
+</div>
 
 </html>
