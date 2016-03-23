@@ -2,7 +2,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
     "http://www.w3.org/TR/html4/loose.dtd">
 
-
 <html>
     
     <head>
@@ -13,14 +12,14 @@
     </head>
 
     <body>
-        <h1> Welcome to Guildford Nights Out </h1>
+        <h1> Events </h1>
        
       <div class="nav">
-               
-     <ul>
+      
+      <ul>
           <!-- Class active indicate current page -->
-        <li class="home"><a href="home.htm" class="active">Home</a></li>
-        <li class="events"><a  href="events.htm">Events</a></li>
+        <li class="home"><a href="home.htm" >Home</a></li>
+        <li class="events"><a  href="event.htm" class="active">Events</a></li>
         <li class="about"><a href="about.htm" >About</a></li>
         <li class="contact"><a href="contact.htm">Contact</a></li>
       </ul>
@@ -31,7 +30,7 @@
     
     <div class="footerholder">
     <div class="site-footer">
-        Copyright 2016
+        Blah blah
     </div>
 </div>
 
